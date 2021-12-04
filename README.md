@@ -1,4 +1,4 @@
-## Send simple and mutiples registers to mysql database
+## Simple API with route example
 #### Módulos utilizados
 
 - "express": "^4.17.1",
